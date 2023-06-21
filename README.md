@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uaDimius
 - 👀 I’m interested in WebApp
-- 🌱 I’m currently learning NodeJS, Svelte, TradingView charts
+- 🌱 I’m currently work on NodeJS, Svelte, TradingView charts
 - 💞️ I’m looking to collaborate on Crypto App Dev
 - 📫 Reach me in PM
 
